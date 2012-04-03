@@ -4,3 +4,21 @@
 [submodule "vendor/redactor"]
 	path = vendor/redactor
 	url = git://github.com/orloffv/imperavi-redactor.git
+[submodule "vendor/ace"]
+	path = vendor/ace
+	url = git://github.com/ajaxorg/ace.git
+[submodule "vendor/backbone"]
+	path = vendor/backbone
+	url = git://github.com/documentcloud/backbone.git
+[submodule "vendor/form"]
+	path = vendor/form
+	url = git://github.com/malsup/form.git
+[submodule "vendor/jquery-validation"]
+	path = vendor/jquery-validation
+	url = git://github.com/jzaefferer/jquery-validation.git
+[submodule "vendor/less.js"]
+	path = vendor/less.js
+	url = git://github.com/cloudhead/less.js.git
+[submodule "vendor/underscore"]
+	path = vendor/underscore
+	url = git://github.com/documentcloud/underscore.git
