@@ -4,9 +4,6 @@
 [submodule "vendor/redactor"]
 	path = vendor/redactor
 	url = git://github.com/orloffv/imperavi-redactor.git
-[submodule "vendor/ace"]
-	path = vendor/ace
-	url = git://github.com/ajaxorg/ace.git
 [submodule "vendor/backbone"]
 	path = vendor/backbone
 	url = git://github.com/documentcloud/backbone.git
