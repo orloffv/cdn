@@ -22,3 +22,60 @@
 [submodule "vendor/underscore"]
 	path = vendor/underscore
 	url = git://github.com/documentcloud/underscore.git
+[submodule "vendor/impress.js"]
+	path = vendor/impress.js
+	url = git://github.com/bartaz/impress.js.git
+[submodule "vendor/presenteer.js"]
+	path = vendor/presenteer.js
+	url = git://github.com/willemmulder/Presenteer.js.git
+[submodule "vendor/timeline"]
+	path = vendor/timeline
+	url = git://github.com/VeriteCo/Timeline.git
+[submodule "vendor/font-awesome"]
+	path = vendor/font-awesome
+	url = git://github.com/FortAwesome/Font-Awesome.git
+[submodule "vendor/chosen"]
+	path = vendor/chosen
+	url = git://github.com/harvesthq/chosen.git
+[submodule "vendor/history.js"]
+	path = vendor/history.js
+	url = git://github.com/balupton/history.js.git
+[submodule "vendor/deck.js"]
+	path = vendor/deck.js
+	url = git://github.com/imakewebthings/deck.js.git
+[submodule "vendor/keymaster"]
+	path = vendor/keymaster
+	url = git://github.com/madrobby/keymaster.git
+[submodule "vendor/moment"]
+	path = vendor/moment
+	url = git://github.com/timrwood/moment.git
+[submodule "vendor/tinycon"]
+	path = vendor/tinycon
+	url = git://github.com/tommoor/tinycon.git
+[submodule "vendor/headjs"]
+	path = vendor/headjs
+	url = git://github.com/headjs/headjs.git
+[submodule "vendor/jquery-file-upload"]
+	path = vendor/jquery-file-upload
+	url = git://github.com/blueimp/jQuery-File-Upload.git
+[submodule "vendor/isotope"]
+	path = vendor/isotope
+	url = git://github.com/desandro/isotope.git
+[submodule "vendor/mailcheck"]
+	path = vendor/mailcheck
+	url = git://github.com/Kicksend/mailcheck.git
+[submodule "vendor/requirejs"]
+	path = vendor/requirejs
+	url = git://github.com/jrburke/requirejs.git
+[submodule "vendor/list"]
+	path = vendor/list
+	url = git://github.com/javve/list.git
+[submodule "vendor/html2canvas"]
+	path = vendor/html2canvas
+	url = git://github.com/niklasvh/html2canvas.git
+[submodule "vendor/uri.js"]
+	path = vendor/uri.js
+	url = git://github.com/medialize/URI.js.git
+[submodule "vendor/modernizer"]
+	path = vendor/modernizer
+	url = git://github.com/Modernizr/Modernizr.git
