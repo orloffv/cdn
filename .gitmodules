@@ -76,3 +76,21 @@
 [submodule "vendor/modernizer"]
 	path = vendor/modernizer
 	url = git://github.com/Modernizr/Modernizr.git
+[submodule "vendor/jquery-mockajax"]
+	path = vendor/jquery-mockajax
+	url = git://github.com/appendto/jquery-mockjax.git
+[submodule "vendor/jurlp"]
+	path = vendor/jurlp
+	url = git://github.com/tombonner/jurlp.git
+[submodule "vendor/jquery-hashchange"]
+	path = vendor/jquery-hashchange
+	url = git://github.com/cowboy/jquery-hashchange.git
+[submodule "vendor/pathjs"]
+	path = vendor/pathjs
+	url = git://github.com/mtrpcic/pathjs.git
+[submodule "vendor/visibility.js"]
+	path = vendor/visibility.js
+	url = git://github.com/ai/visibility.js.git
+[submodule "vendor/zxcvbn"]
+	path = vendor/zxcvbn
+	url = https://github.com/lowe/zxcvbn
